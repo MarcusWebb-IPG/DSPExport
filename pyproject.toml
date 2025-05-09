@@ -1,0 +1,23 @@
+[project]
+name = "dspexport"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "certifi>=2025.4.26",
+    "charset-normalizer>=3.4.2",
+    "datetime>=5.5",
+    "idna>=3.10",
+    "numpy>=2.2.5",
+    "pandas>=2.2.3",
+    "pwinput>=1.0.3",
+    "python-dateutil>=2.9.0.post0",
+    "pytz>=2025.2",
+    "requests>=2.32.3",
+    "setuptools>=80.3.1",
+    "six>=1.17.0",
+    "tzdata>=2025.2",
+    "urllib3>=2.4.0",
+    "zope-interface>=7.2",
+]
