@@ -2,7 +2,7 @@
 
 ## Purpose
 
-The `DSPExport` tool is designed to retrieve Mapped DSPs (Demand Side Platforms) from INTERAct on a per-market basis. This script simplifies the process of extracting and organizing DSP data for further analysis or reporting.
+The `Export Mapped DSPs` tool is designed to retrieve Mapped DSPs (Demand Side Platforms) from INTERAct on a per-market basis. This script simplifies the process of extracting and organizing DSP data for further analysis or reporting.
 
 ## Usage
 
